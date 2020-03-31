@@ -1,6 +1,6 @@
 # Parallelizing-Particle-Simulation
-Parallelizing a Particle Simulation__
+Parallelizing a Particle Simulation  
 
-Tuned Serialize version: serial.cpp__
-Tuned OpenMP version: openmp.cpp__
-Tuned MPI version: mpi.cpp__
+Tuned Serialize version: serial.cpp  
+Tuned OpenMP version: openmp.cpp  
+Tuned MPI version: mpi.cpp
